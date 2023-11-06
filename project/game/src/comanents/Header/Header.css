@@ -1,0 +1,63 @@
+.header{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+img{
+    width: 250px;
+    height: 100px;
+}
+ul{
+    display: flex;
+  
+}
+li{
+    margin: 10px;
+    list-style: none;
+}
+span{
+    color: aqua;
+}
+.kirish{
+    background-color: rgb(248, 251, 253);
+    border-color: aqua;
+    border-radius: 5px;
+    color: aqua;
+    width: 100px;
+    height: 40px;
+}
+button{
+    background-color: rgb(253, 254, 254);
+    border-color: rgb(29, 167, 50);
+    border-radius: 5px;
+    color: rgb(27, 166, 69);
+    width: 200px;
+    height: 40px;
+    margin: 8px;
+    
+}
+button:hover {
+    background-color: rgb(57, 204, 136);
+    color: aliceblue;
+  }
+  .kirish:hover {
+    background-color: rgb(95, 234, 227);
+    color: aliceblue;
+
+  }
+  select:hover {
+    border-style: none;
+    width: 50px;
+    height: 40px;
+    border-radius: 5px;
+   background-color: gainsboro;
+    color: rgb(17, 236, 252);
+
+  }
+  select{
+    width: 50px;
+    height: 40px;
+    border: none;
+  }

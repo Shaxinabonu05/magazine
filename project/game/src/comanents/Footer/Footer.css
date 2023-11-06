@@ -1,0 +1,36 @@
+.box-but{
+background-color:rgb(42, 24, 24);
+}
+.footer-container{
+background-color:rgb(42, 24, 24) ;
+
+display: flex;
+justify-content: space-evenly;
+margin-top: 30px;
+}
+ .name h3{
+    color: aliceblue;
+}
+.name p{
+    color: grey;
+}
+.name h4{
+    color: aquamarine;
+}
+
+.name {
+    width: 200px;
+   
+}
+.eng-pasti{
+    background-color: rgb(27, 4, 4);
+    display: flex;
+    height: 80px;
+    color: aliceblue;
+}
+.foyda{
+    justify-content: flex-start;
+}
+.eng-pasti p{
+    padding-left: 350px;
+}

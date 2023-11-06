@@ -1,0 +1,52 @@
+.topp{
+    background-color: rgb(10, 10, 113);
+    color: azure;
+    display: flex;
+margin-top: 100px;
+   margin-left: 250px;
+    width: 996px;
+    height: 80px;
+    border-radius: 5px;
+
+}
+.login p{
+  margin-left: 500px;
+ margin-top: 30px;
+  
+}
+.login h1{
+    margin-left: 20px;
+}
+.urta{
+    width: 996px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 250px;
+ 
+}
+input{
+    width: 500px;
+    height: 45px;
+    border: none;
+    box-shadow: rgba(134, 134, 136, 0.25) 0px 50px 100px -20px, rgba(106, 105, 105, 0.3) 0px 30px 60px -30px, rgba(105, 106, 106, 0.35) 0px -2px 6px 0px inset;
+}
+.but{
+   width:250px ;
+   height: 45px;
+   border: none;
+   background-color: yellowgreen;
+   color: aliceblue;
+   box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+   margin-top: 30px;
+  
+
+}
+.past{
+    background-color: rgb(237, 238, 238);
+    color: rgb(16, 16, 16);
+    width: 996px;
+    height: 80px;
+    border-radius: 5px;
+    position: relative;
+  
+}
